@@ -12,7 +12,7 @@ Data Source: Dallas ISD via Stakeholders
 The Educator Effectiveness Database creates a centralized location for teacher retention data ranging from effectiveness level to school site. Much of Dallas ISD’s data is in spreadsheets or Excel files but cannot be accessed in a database. This database helped inform district trustees and school leaders on the Teacher Excellence Initiative’s success in recruiting and retaining educators. The district most recently reported a 97% teacher retention rate. 
 
 ## Conceptual Model
-![]()
+![](https://github.com/vladimir-dinolov/educator_effectiveness_db/blob/main/Picture1.png)
 
 ## Logical Model
 
