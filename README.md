@@ -15,7 +15,10 @@ The Educator Effectiveness Database creates a centralized location for teacher r
 ![](https://github.com/vladimir-dinolov/educator_effectiveness_db/blob/main/Picture1.png)
 
 ## Logical Model
+![](https://github.com/vladimir-dinolov/educator_effectiveness_db/blob/main/Picture5.png)
 
 ## User Interface 
+![](https://github.com/vladimir-dinolov/educator_effectiveness_db/blob/main/Picture3.png)
 
 ## Querying for Results
+![](https://github.com/vladimir-dinolov/educator_effectiveness_db/blob/main/Picture4.png)
